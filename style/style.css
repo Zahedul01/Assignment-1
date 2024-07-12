@@ -159,5 +159,20 @@
     border-radius: 10px;
     box-shadow: 0px 6px 50px 0px black;
   }
+  #footer{
+    
+    background-image: url("../B10A1-Challenge-Begins/assets/handshake.jpg");
+    Background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #footer .feedback{
+    padding: 64px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
 
 
